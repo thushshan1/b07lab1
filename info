@@ -1,0 +1,8 @@
+learning the basics of java
+developing a class called polynomial which has various methods such as add, evaluate, and hasRoot
+add: adds to Polynomial objects
+evaluate: calculates the answer to the polynomail given a particular value
+hasRoot: determines if a value is a root of the polynomial
+the field is a double array
+has a no-argument constructor which sets polynomial to zero
+constructor takes an array as a double and set the polynomial to these values
